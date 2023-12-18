@@ -1,3 +1,6 @@
+
+![logo](https://github.com/ArchismwanChatterjee/Face-Detector/assets/115975340/fd668b46-b348-4beb-bde4-b9ef799ef30a)
+
 # Face-Detector 🔍
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
@@ -5,7 +8,7 @@
 
 
 Face Detector basically detects the number of persons present in an image and also try to figure them out. As its an AI Model it sometime fails to detect the famous personalities so please consider.
-Click [here](https://face-identifier-f6yfaqdqiygobhgs9qzeky.streamlit.app/) to try out
+Click [here](https://face-detector.streamlit.app/) to try out
 
 ## How to use:
 1. Go through the disclaimer ⚠️ to understand more regarding what type of images will give best results.
@@ -59,4 +62,4 @@ make sure all changes you make are in the testing branch.
 
 The website is deployed using streamlit community cloud ⬇️
 
-[Link](https://face-identifier-f6yfaqdqiygobhgs9qzeky.streamlit.app/) 
+[Link](https://face-detector.streamlit.app/) 
